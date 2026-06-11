@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a yung italian programmer, I've basic knowladge over python and C++ 
 
 <!--
 **LoreG1810/LoreG1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
