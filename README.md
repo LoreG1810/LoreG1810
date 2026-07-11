@@ -1,5 +1,5 @@
 ## Ciao!! 👋
-##Sono un programmatore italaiano con conoscenze in python e sulle basi di Lua e C++
+Sono un programmatore italaiano con conoscenze in python e sulle basi di Lua e C++
 
 Attualmente sto cercando di migliorare le mie capacita di "pensare come un programmatore" 
 
