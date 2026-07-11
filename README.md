@@ -1,5 +1,7 @@
-## Hi there 👋
-I'm a yung italian programmer, I've basic knowladge over python and C++ 
+## Ciao!! 👋
+###Sono un programmatore italaiano con conoscenze in python e sulle basi di Lua e C++
+
+Attualmente sto cercando di migliorare le mie capacita di "pensare come un programmatore" 
 
 <!--
 **LoreG1810/LoreG1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
